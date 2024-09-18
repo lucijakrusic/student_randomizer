@@ -1,2 +1,2 @@
 # student_randomizer
-A basic Tkinter tudent radomizer made for homework roll calling 
+A basic Tkinter student radomizer made for homework roll calling 
